@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Flutter Stock CW
+This project is a Flutter application for watching real-time CW on the stock market.
+The content is loaded from an external Website, then customized.
 
-This project is a starting point for a Flutter application.
+<img width="612" height="1097" alt="image" src="https://github.com/user-attachments/assets/eba23fed-40e4-4a08-a64a-a2252ebaadb7" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
